@@ -20,3 +20,5 @@ SDR project: FM demodulation using Python (FFT + filtering).
 pip install numpy matplotlib
 python fft_spectrum.py
 ```
+## Output
+![FFT Spectrum](spectrum.png)
