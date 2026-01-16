@@ -10,16 +10,17 @@ SDR project: FM demodulation using Python (FFT + filtering).
 - NumPy, Matplotlib
 
 ## Progress
--  Day 1: Setup Python + Git + GitHub 
--  Day 2: FFT spectrum plot from IQ file
--  Day 3: FM demodulation pipeline
--  Day 4: Save audio (.wav) output
+- FFT spectrum plot from IQ file
+- FM demodulation pipeline
+- Save audio (.wav) output
 
-## How to Run (will update)
+## How to Run
 ```bash
-pip install numpy matplotlib
+pip install -r requirements.txt
 python fft_spectrum.py
+python fm_demod.py
 ```
+
 ## Output
 ![FFT Spectrum](spectrum.png)
 ## FM Demodulation
