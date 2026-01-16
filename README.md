@@ -22,3 +22,6 @@ python fft_spectrum.py
 ```
 ## Output
 ![FFT Spectrum](spectrum.png)
+## FM Demodulation
+Generated audio output:
+- outputs/output.wav
