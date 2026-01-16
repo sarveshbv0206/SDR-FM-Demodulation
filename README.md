@@ -1,5 +1,5 @@
 # SDR-FM-Demodulation
-SDR project: FM demodulation using Python (FFT + filtering). 
+SDR project: FFT spectrum analysis + FM demodulation using Python.
 ## Goals
 - Load recorded IQ samples
 - Plot FFT spectrum
